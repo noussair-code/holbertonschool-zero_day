@@ -1,1 +1,1 @@
-Manual
+Git project
